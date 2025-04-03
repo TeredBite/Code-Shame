@@ -1,0 +1,64 @@
+Toyota
+A123BC
+Иван Иванов
+Sedan
+Nissan
+H456CD
+Пётр Петров
+Hatchback
+Volkswagen
+W789DE
+Алексей Смирнов
+Coupe
+Honda
+Q234EF
+Сергей Иванов
+Wagon
+Ford
+O345FG
+Мария Сидорова
+Van
+BMW
+Y456GH
+Ольга Кузнецова
+Sedan
+Mercedes
+G567HI
+Николай Соболев
+Hatchback
+Audi
+H678IJ
+Виктория Самойлова
+Coupe
+Kia
+I789JK
+Михаил Лебедев
+Wagon
+Hyundai
+J890KL
+Елена Орлова
+Van
+Skoda
+K901LM
+Олег Петров
+Sedan
+Peugeot
+L012MN
+Ксения Новикова
+Hatchback
+Citroen
+M123NO
+Анна Фёдорова
+Coupe
+Renault
+N234OP
+Артём Власов
+Wagon
+Mazda
+O345PQ
+Максим Гордеев
+Van
+Subaru
+P456QR
+Татьяна Шестакова
+Sedan

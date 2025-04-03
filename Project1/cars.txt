@@ -1,0 +1,104 @@
+Toyota Camry
+T123AA
+Petr Petrov
+Sedan
+Ford Focus
+F234BB
+Ivan Ivanov
+Hatchback
+Honda Civic
+H345CC
+Alexander Sergeev
+Coupe
+Chevrolet Malibu
+C456DD
+Sergey Smirnov
+Wagon
+BMW 3 Series
+B567EE
+Dmitry Kuznetsov
+Sedan
+Mercedes-Benz C-Class
+M678FF
+Nikolay Popov
+Hatchback
+Audi A5
+A789GG
+Mikhail Sokolov
+Coupe
+Volkswagen Golf
+V890HH
+Andrey Morozov
+Hatchback
+Nissan Altima
+N901II
+Evgeny Novikov
+Sedan
+Kia Carnival
+K012JJ
+Viktor Fyodorov
+Van
+Hyundai Sonata
+H123KK
+Roman Aleksandrov
+Sedan
+Mazda 6
+M234LL
+Oleg Vorobiev
+Wagon
+Subaru Impreza
+S345MM
+Vladimir Lebedev
+Hatchback
+Volvo XC90
+V456NN
+Stanislav Grigoryev
+Van
+Lexus ES
+L567OO
+Maxim Nikolaev
+Sedan
+Porsche 911
+P678PP
+Konstantin Vasiliev
+Coupe
+Toyota Camry
+T123AA
+Ivan Ivanov
+Sedan
+Ford Focus
+F234BB
+Petr Petrov
+Hatchback
+Honda Civic
+H345CC
+Alexander Sergeev
+Coupe
+Chevrolet Malibu
+C456DD
+Sergey Smirnov
+Wagon
+BMW 3 Series
+B567EE
+Dmitry Kuznetsov
+Sedan
+Mercedes-Benz C-Class
+M678FF
+Nikolay Popov
+Hatchback
+Audi A5
+A789GG
+Mikhail Sokolov
+Coupe
+Volkswagen Golf
+V890HH
+Andrey Morozov
+Hatchback
+Nissan Altima
+N901II
+Evgeny Novikov
+Sedan
+Kia Carnival
+K012JJ
+Viktor Fyodorov
+Van
